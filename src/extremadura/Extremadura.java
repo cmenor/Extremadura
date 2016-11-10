@@ -24,7 +24,7 @@ public class Extremadura {
         provincias.add(p);
 
         p = new Provincia();
-        p.setNombre("Cáceres");
+        p.setNombre("Merida");
         p.setExtension(120000);
         provincias.add(p);
 
